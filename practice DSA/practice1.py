@@ -1,5 +1,2 @@
-def pat(n):
-    for i in range(0,n):
-        print('*' * i)
+# 10 questions for basic logic building 
 
-pat(7)
